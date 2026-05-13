@@ -3,7 +3,8 @@
     "name": "AbisSMP",
     "description": "Join AbisSMP for new things and great community!",
     "addresses": [
-        "abissmp.eu"   
+        "abissmp.eu",
+        "mc.abissmp.eu"
     ],
     "primaryAddress": "abissmp.eu",
     "minecraftVersions": [
